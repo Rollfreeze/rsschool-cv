@@ -17,4 +17,27 @@
     Development tools: VS Code, Visual Studio
 
 ## 5 Code examples:
-    
+    You can check my code examples in my git portfolio.
+    Link: https://github.com/Rollfreeze?tab=repositories
+
+## 6 Work experience:
+    I used to train 1C developing via 1С franchising firm in my Town;
+    As part of the training course of the institute I have learnt C++ and Python well. I created many projects there, but more important for me is creating client-server application on Python and SQL with pretty good GUI (QT-Designer). I like this project because it's compilation of my knowledge.
+
+    I also have learnt 2 courses for Junior-Development and created 2 simple sites.
+
+    courses:
+        * https://brainscloud.ru/landing/html-css
+        * https://html.dmitrylavrik.ru/?utm=site-courses
+
+    My sites:
+        * https://github.com/Rollfreeze/Wegy-Template
+        * https://github.com/Rollfreeze/Myself
+
+## 7 Education:
+    I am a student of 4-th course of Admiral Makarov State University of Maritime and Inland Shipping.
+    My speciality is a cyber security.
+
+## 8 English:
+    My English level is approximately B1
+    I traveld a lot with my parents when I was 15-17 years old and I could practice my English with other people who speaked it.
