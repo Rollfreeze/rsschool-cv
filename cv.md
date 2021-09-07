@@ -20,7 +20,7 @@
     You can check my code examples in my git portfolio.
     Link: https://github.com/Rollfreeze?tab=repositories
 
-    '''C++
+```C++
     void looking_for_minus_elements(int** A, int S, int K)
     {
         int zeroes = 0;
@@ -78,7 +78,7 @@
             }
         }
     }
-    '''
+```
 
 ## 6 Work experience:
     I used to train 1C developing via 1С franchising firm in my Town;
