@@ -87,12 +87,12 @@
     I also have learnt 2 courses for Junior-Development and created 2 simple sites.
 
     courses:
-        * https://brainscloud.ru/landing/html-css
-        * https://html.dmitrylavrik.ru/?utm=site-courses
+        1) https://brainscloud.ru/landing/html-css
+        2) https://html.dmitrylavrik.ru/?utm=site-courses
 
     My sites:
-        * https://github.com/Rollfreeze/Wegy-Template
-        * https://github.com/Rollfreeze/Myself
+        1) https://github.com/Rollfreeze/Wegy-Template
+        2) https://github.com/Rollfreeze/Myself
 
 ## 7 Education:
     I am a student of 4-th course of Admiral Makarov State University of Maritime and Inland Shipping.
