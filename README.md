@@ -1,1 +1,1 @@
-https://rollfreeze.github.io/rsschool-cv/cv
+https://rollfreeze.github.io/rsschool-cv/
